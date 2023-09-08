@@ -58,26 +58,7 @@ for($i=0;$i<=5;$i++){
 
 
 
-  class transection{
-    private float $amount;
-   public function _conta
 
-
-
-
-  }
-
-
-
-  interface animal{
-    public function makesound();
-   
-  }
-  class Cat impliments animal{
-    public function makesound(){
-      echo "meao";
-    }
-  }
  
 
 
